@@ -1,0 +1,21 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.wrapperheader {
+    background-color: #f0f0f0;
+}
+
+.wrapperheader h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.wrappnav ul {
+    list-style-type: none;
+    display: inline-flex;
+}
+
+.wrappnav {
+    margin: 0px;
+}
